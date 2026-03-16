@@ -56,8 +56,8 @@ Projetos focados em:
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anjos-tg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjos-tg&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Projetos focados em:
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjos-tg&theme=tokyonight">
 </p>
 
 ---
@@ -73,21 +73,21 @@ Projetos focados em:
 ## 📈 Atividade no GitHub
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjos-tg&theme=tokyo-night">
 </p>
 
 ---
 
 ## 🐍 Snake comendo contribuições
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Anjos-tg/Anjos-tg/output/snake.svg" alt="Snake animation" />
 
 ---
 
 ## 👀 Visualizações do perfil
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue">
+<img src="https://komarev.com/ghpvc/?username=Anjos-tg&color=blue">
 </p>
 
 ---
